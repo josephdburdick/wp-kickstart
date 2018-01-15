@@ -52,5 +52,6 @@ wp-content/plugins/hello.php
 
 
 # End of https://www.gitignore.io/api/osx,wordpress,docker
+docker-compose.yml
 wp-content/themes/twenty*
 wp-content/plugins/akismet
